@@ -7,6 +7,7 @@ Exercism is a platform with several coding exercises for all sorts of programmin
 - [About](#about)
 - [Getting Started](#getting-started)
 - [Running Tests](#tests)
+- [Community](#community)
 - [Credits](#credits)
 - [Author](#author)
 - [License](#license)
@@ -70,6 +71,10 @@ describe("twoFer()", () => {
 ```
 
 In this case, there are 3 tests. If you run `npm test` and it passes the first test, you go to this file and change the first `xtest()` function name to `test()`, run again, if it passes you change the next `xtest()` and so on and so forth.
+
+## Community <a name = "community"></a>
+
+Since this is a learning platform, most people post their answer on the community section. It's always interesting to check how other people solved the same problem, you can always learn something and add a few new tricks up your sleeve.
 
 ## Credits <a name = "credits"></a>
 
